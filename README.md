@@ -1,0 +1,9 @@
+- 👋 Hi, I’m ashu my real name is ashish 
+- 👀 I’m owner of pokecool bot in discord ...
+- 🌱 I’m currently learning python...
+- 💞️ I’m looking to collaborate on my pokecool bot...
+
+<!---
+ashu000999/ashu000999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
